@@ -18,7 +18,7 @@ Heroku Deployed link: https://homeworknotetaker.herokuapp.com/
 
 
 ## Description
-
+Note Taker is a simply app built with backend languages such as Express.js and Node. This app is designed to allow a user to make new notes, edit those notes and even delete notes after they have finished that task. 
 ## Installation
 First you want to run npm install. Then run node index.js. After you run this, go to your browser and type in http://localhost:3001. From there, you will be able to run the app!
 ## Usage
